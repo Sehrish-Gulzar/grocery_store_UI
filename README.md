@@ -1,16 +1,16 @@
-# fruit_shop_appdevdiva
+# Grocery Store UI
 
-A new Flutter project.
+Grocery Store is a 3D-style UI application built with Flutter.
 
-## Getting Started
+  
+## Screenshots
+<div style="display: grid;  gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/grocery_store_UI/blob/main/Screenshot_20240502_022520.png" style="width: 25%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/grocery_store_UI/blob/main/Screenshot_20240502_022540.png" style="width: 25%;"/>
+  </div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## LinkedIn Video Post
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Check out my LinkedIn post for a brief overview of the app: [LinkedIn Video Post](https://www.linkedin.com/posts/sehrish-gulzar-a543962bb_newgradlife-learningbydoing-madesomething-activity-7192111516135882752-eNCC?utm_source=share&utm_medium=member_desktop)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
